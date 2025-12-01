@@ -1,0 +1,5 @@
+{
+  "name": "Smart Savings Tracker",
+  "description": "An intelligent expense tracker that provides a summary of your finances, visualizes your spending habits with a pie chart, and offers personalized savings tips powered by Gemini to help you improve your financial health.",
+  "requestFramePermissions": []
+}
